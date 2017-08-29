@@ -1,0 +1,48 @@
+{
+  "name": "react-native-basic",
+  "description": "A very basic starter for React Native with navigation.",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirshy/react-native-basic"
+  },
+  "keywords": [
+    "react",
+    "react native",
+    "react navigation",
+    "mobx"
+  ],
+  "homepage": "https://github.com/sirshy/react-native-basic",
+  "bugs": {
+    "url": "https://github.com/sirshy/react-native-basic/issues"
+  },
+  "dependencies": {
+    "expo": "^18.0.3",
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12",
+    "react-dom": "^16.0.0-alpha.12",
+    "react-native": "^0.45.1",
+    "react-navigation": "^1.0.0-beta.11"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "^20.0.3",
+    "babel-plugin-transform-react-jsx-source": "^6.22.0",
+    "babel-polyfill": "^6.23.0",
+    "eslint": "^4.3.0",
+    "eslint-plugin-prettier": "^2.1.2",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-react-native": "^2.3.2",
+    "prettier-eslint": "^6.4.2",
+    "react-native-scripts": "0.0.50"
+  }
+}
