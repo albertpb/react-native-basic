@@ -1,4 +1,4 @@
-# react-native-redux-starter
+# react-native-basic
 A very basic starter for React Native with navigation.
 It utilizes expo
 
